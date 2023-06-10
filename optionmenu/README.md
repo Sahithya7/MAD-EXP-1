@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “optionmenu”.
-Developed by:Sahithya.S
-Registeration Number :212221040140
+Developed by: S.SAHITHYA
+Registeration Number : 212221040140
 */
 ```
 # Activity_xml File:
@@ -91,12 +91,10 @@ public boolean onCreateOptionsMenu(Menu menu) {
 }
 ```
 ## OUTPUT
+![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/c125539d-0038-435f-b0ef-780344eabbcd)
 
 
-
-
-![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/5237ac6e-8192-4bfd-b1ec-d93dfcdc09f3)
-
+![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/73724419-3496-45ce-948f-c43d8e9c2553)
 
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
