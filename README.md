@@ -25,7 +25,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: S. SAHITHYA
+Developed by: S.SAHITHYA
 Registration Number : 212221040140
 */
 activity_main.xml :
