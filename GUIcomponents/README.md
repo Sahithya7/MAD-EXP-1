@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by:Sahithya.S
+Developed by:S. SAHITHYA
 Registeration Number :212221040140
 */
 ```
