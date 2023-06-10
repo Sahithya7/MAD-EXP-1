@@ -29,8 +29,8 @@ Step 7: Save and run the application
 ```
 /*
 Program to display animation operation”.
-Developed by:Sahithya.S
-Registeration Number :212221040140
+Developed by: S.SAHITHYA
+Registeration Number : 212221040140
 */
 ```
 # Activity_main.xml:
@@ -261,14 +261,17 @@ Move.xml:
     android:toYScale="0.0" />
 ```
 ## OUTPUT
+![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/eaeae451-fb2a-4316-933e-a2330e703e9f)
 
 
 
+![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/285aa997-42d5-48b4-bb36-71831e282a1c)
 
 
 
-
+![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/927e67e1-1fbf-4c74-96e5-09996a125be0)
 
 
 
 ## RESULT
+Thus, to develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio has been executed successfully.
